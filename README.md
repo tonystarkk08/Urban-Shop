@@ -11,10 +11,8 @@ https://urban-shop-58sjxnrgm-tonystarkk08s-projects.vercel.app/
 - Easy to integrate with Backend
 - Fully Responsive
 
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+##ScreenShot
+- ![Uploading Screenshot from 2024-03-18 14-30-08.png…]()
 
 
 
@@ -23,13 +21,13 @@ https://urban-shop-58sjxnrgm-tonystarkk08s-projects.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone git@github.com:tonystarkk08/Urban-Shop.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd Urban-Shop
 ```
 
 Install dependencies
