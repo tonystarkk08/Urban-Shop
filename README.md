@@ -11,11 +11,6 @@ https://urban-shop-58sjxnrgm-tonystarkk08s-projects.vercel.app/
 - Easy to integrate with Backend
 - Fully Responsive
 
-##ScreenShot
-- ![Uploading Screenshot from 2024-03-18 14-30-08.png…]()
-
-
-
 ## Run Locally
 
 Clone the project
